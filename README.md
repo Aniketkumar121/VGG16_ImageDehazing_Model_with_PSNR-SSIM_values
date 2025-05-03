@@ -44,31 +44,6 @@ Improve visibility and recover important visual information from hazy images usi
 
 ---
 
-## 📈 Installation and Setup
-
-### Clone the repository
-
-```bash
-git clone <your-repo-link>
-cd image-dehazing
-```
-
-### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run the project
-
-```bash
-python main.py
-```
-
-You can modify `main.py` to select different models and preprocessing combinations.
-
----
-
 ## 📊 Evaluation Metrics
 
 - **PSNR (Peak Signal-to-Noise Ratio)** - Measures the ratio between maximum possible power and corrupting noise.
